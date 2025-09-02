@@ -1,7 +1,3 @@
-Claro! Aqui está a estrutura completa da UC07 - Fundamentos da Indústria 4.0 e 5.0, com um índice em Markdown e ícones para melhor visualização e engajamento.
-
----
-
 # **UC07 - Fundamentos da Indústria 4.0**
 
 ## **Índice** 📚
