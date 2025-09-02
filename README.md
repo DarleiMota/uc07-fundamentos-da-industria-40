@@ -2,7 +2,7 @@ Claro! Aqui está a estrutura completa da UC07 - Fundamentos da Indústria 4.0 e
 
 ---
 
-# **UC07 - Fundamentos da Indústria 4.0 e 5.0**
+# **UC07 - Fundamentos da Indústria 4.0**
 
 ## **Índice** 📚
 
